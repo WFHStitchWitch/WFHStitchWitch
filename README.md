@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WFHStitchWitch.
 - 👀 I’m interested in business architecture, enterprise architecture, and technology strategy.
-- 🌱 I’m currently learning Python, fumbling my way through them as a hobby before committing to a graduate program.
+- 🌱 I’m currently learning Python, fumbling my way through as a hobby before committing to a graduate program.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 - 😄 Pronouns: 
